@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BattleShip2API">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BattleShip2API.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
